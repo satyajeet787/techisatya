@@ -1,1 +1,4 @@
 name = "satyajeet"
+
+
+print(name)
