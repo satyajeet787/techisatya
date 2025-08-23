@@ -2,6 +2,7 @@ name = "satyajeet"
 
 message = "You are welcome"
 
+<<<<<<< Updated upstream
 
 
 
@@ -16,3 +17,7 @@ message = "You are welcome"
 
 
 Hello how are you
+=======
+new line add
+
+>>>>>>> Stashed changes
