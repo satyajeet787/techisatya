@@ -1,4 +1,1 @@
 name = "satyajeet"
-
-
-print(name)
