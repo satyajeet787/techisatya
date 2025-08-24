@@ -1,4 +1,7 @@
 This is line one
+
 good morning
 
 new line
+
+This is line two
